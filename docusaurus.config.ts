@@ -62,8 +62,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -71,7 +69,7 @@ const config: Config = {
       title: "Visantara Wiki",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/visan.webp",
       },
       items: [
         {
@@ -96,7 +94,7 @@ const config: Config = {
           items: [
             {
               label: "Tutorial",
-              to: "/docs/intro",
+              to: "/docs/",
             },
           ],
         },
