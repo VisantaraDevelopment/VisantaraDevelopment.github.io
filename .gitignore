@@ -1,0 +1,6 @@
+# Docusaurus build output
+build/
+.docusaurus/
+.cache/
+.temp/
+node_modules/
