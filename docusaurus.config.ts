@@ -78,17 +78,17 @@ const config: Config = {
           position: "left",
           label: "Tutorial",
         },
-        {
-          href: "https://github.com/VisantaraDevelopment/VisantaraDevelopment.github.io",
-          label: "GitHub",
-          position: "right",
-        },
+    // {
+    //      href: "https://github.com/VisantaraDevelopment/VisantaraDevelopment.github.io",
+    //      label: "GitHub",
+    //      position: "right",
+    //    },
       ],
     },
     footer: {
       style: "dark",
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Visantara. Dibuat dengan Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Visantara. Dibuat dengan ❤️.`,
     },
     prism: {
       theme: prismThemes.github,
